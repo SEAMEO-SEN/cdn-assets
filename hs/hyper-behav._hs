@@ -1,0 +1,56 @@
+behavior GotoMain()
+  on click 
+    go to url #main-content
+    set .p-side-navigation__toggle[@aria-expanded] to 'false'
+    remove .is-drawer-expanded from #drawer
+    add .is-drawer-collapsed to #drawer
+    add .is-drawer-hidden to #drawer
+  end
+end
+
+behavior RemoveFullHeight(width)
+  on load
+    if window.innerWidth < width
+        remove .is-100-vh from #drawer
+    else
+        add .is-100-vh to #drawer
+    end
+  end
+  on resize from window
+    if window.innerWidth < width
+        remove .is-100-vh from #drawer
+    else
+        add .is-100-vh to #drawer
+    end
+  end
+end
+
+behavior OpenModal(id)
+  on click or keyup[key is 'Enter']
+    send open to id
+  end
+end
+
+behavior Modal(tarId,delId)
+  on open
+    set backId to "#" + tarId.id then
+    set deleteId to "#" + delId.id then
+    remove .u-hide from me then
+    add .is-open to me
+    set .p-modal__dialog[@aria-modal] to true
+    set $gloBackId to backId then
+    go to url `${deleteId}`
+  end
+  on close or keyup[key is 'Escape'] from <body/>
+    add .u-hide to <div.is-open/> then
+    remove .is-open from <div.is-open/>
+    set .p-modal__dialog[@aria-modal] to false
+    go to url `${$gloBackId}`
+  end
+end
+
+behavior CloseModal(id)
+  on click
+    send close to id
+  end
+end

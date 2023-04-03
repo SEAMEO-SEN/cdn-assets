@@ -1,0 +1,107 @@
+#book-cover {
+    height: 190px;
+    width: auto;
+}
+
+.htmx-indicator {
+    display: none;
+}
+
+.htmx-request #indicator {
+    display: inline;
+    float: right;
+}
+
+.htmx-request#indicator {
+    display: inline;
+    float: right;
+}
+
+.alims-vertical-align {
+    vertical-align: middle;
+}
+
+.has-m-t-5 {
+    margin-top: 5rem;
+}
+
+@media (min-width: 1036px) {
+    .p-navigation__nav {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        margin-right: 1.5rem;
+        width: 100%;
+    }
+}
+
+.p-card {
+    border-radius: 0.8rem !important;
+}
+
+.has-max-height-custom-1 {
+    max-height: 3.5rem !important;
+}
+
+#index.htmx-request {
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 0;
+    }
+
+    0% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeOut {
+    100% {
+        opacity: 0;
+    }
+
+    0% {
+        opacity: 1;
+    }
+}
+
+#index.htmx-settling {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        display: none;
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.is-100-vh {
+    height: 100vh;
+}
