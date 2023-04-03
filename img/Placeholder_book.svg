@@ -2,27 +2,11 @@
 <svg id="svg2" width="513" height="663" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs id="defs5">
     <linearGradient id="linearGradient6081">
-      <stop style="stop-color:#b1b1b1;stop-opacity:1;" offset="0" id="stop6083"/>
+      <stop style="stop-opacity: 1; stop-color: rgb(71, 80, 128);" offset="0" id="stop6083"/>
       <stop style="stop-color:#dddddd;stop-opacity:1;" offset="1" id="stop6085"/>
     </linearGradient>
     <linearGradient id="linearGradient6087" x1="20.992085" y1="334.124" x2="80.761192" y2="334.12399" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6081"/>
-    <linearGradient id="linearGradient8034" x1="390.74249" y1="315.17279" x2="109.69122" y2="45.48283" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6081"/>
-    <filter id="black-and-white-filter-1" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="black-and-white 1 -1">
-      <feColorMatrix type="saturate" values="0"/>
-      <feComponentTransfer>
-        <feFuncR type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-        <feFuncG type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-        <feFuncB type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-      </feComponentTransfer>
-    </filter>
-    <filter id="black-and-white-filter-2" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="black-and-white 1 -1">
-      <feColorMatrix type="saturate" values="0"/>
-      <feComponentTransfer>
-        <feFuncR type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-        <feFuncG type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-        <feFuncB type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 "/>
-      </feComponentTransfer>
-    </filter>
+    <linearGradient id="linearGradient8034" x1="390.74249" y1="315.17279" x2="109.69122" y2="45.48283" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 1.559814, -0.720078)" xlink:href="#linearGradient6081"/>
     <filter id="invert-filter-1" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="invert 1 1">
       <feComponentTransfer>
         <feFuncR type="table" tableValues="1 0"/>
@@ -47,12 +31,10 @@
       </feComponentTransfer>
     </filter>
   </defs>
-  <rect style="fill:url(#linearGradient6087);fill-opacity:1.0;stroke:#797979;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1" id="rect2161" width="472.3219" height="619.26648" x="20.992085" y="24.490765" rx="26.321093" ry="26.321093"/>
-  <path style="opacity:0.53225804;fill:url(#linearGradient8034);fill-opacity:1.0;stroke:#747474;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 465.70864,29.664973 L 85.226877,29.664973 L 85.155707,638.58303 L 465.70864,638.58303 C 478.15065,638.58303 488.16717,627.04001 488.16717,612.70178 L 488.16717,55.546221 C 488.16717,41.20801 478.15065,29.664973 465.70864,29.664973 z " id="rect4114"/>
+  <rect style="fill: url(#linearGradient6087); fill-opacity: 1; stroke-width: 2.5; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; opacity: 1; stroke: rgb(73, 71, 138);" id="rect2161" width="472.3219" height="619.26648" x="20.992085" y="24.490765" rx="26.321093" ry="26.321093"/>
+  <path style="opacity: 0.532258; fill: url(#linearGradient8034); fill-opacity: 1; stroke-width: 10; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; stroke: rgb(81, 74, 151);" d="M 467.269 28.945 L 86.787 28.945 L 86.716 637.863 L 467.269 637.863 C 479.711 637.863 489.727 626.32 489.727 611.982 L 489.727 54.826 C 489.727 40.488 479.711 28.945 467.269 28.945 Z" id="rect4114"/>
   <text style="font-family: &quot;Bitstream Vera Sans&quot;; font-size: 24px; white-space: pre;" id="text11010" x="173.341" y="233.713">Book cover placeholder</text>
   <text style="font-size: 14.6px; text-align: start; text-anchor: start; font-family: &quot;Bitstream Vera Sans&quot;; white-space: pre;" x="327.334" y="584.286" id="text11058">@ SEAMEO SEN</text>
-  <rect x="119.403" y="264.8" width="330.441" height="9.641" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); paint-order: stroke; vector-effect: non-scaling-stroke; stroke-width: 0px; filter: url(#black-and-white-filter-2);"/>
-  <rect x="119.106" y="180.898" width="330.441" height="9.641" style="fill: rgb(216, 216, 216); paint-order: stroke; vector-effect: non-scaling-stroke; stroke-width: 0px; stroke-miterlimit: 1; stroke: rgb(132, 159, 43); filter: url(#black-and-white-filter-1);"/>
   <path class="st0" d="M 379.361 122.376 L 375.692 122.376 L 374.543 119.115 L 368.243 119.115 L 367.094 122.376 L 363.425 122.376 L 368.577 107.218 L 374.209 107.218 L 379.361 122.376 Z M 369.355 115.89 L 373.431 115.89 L 371.393 110.479 L 369.355 115.89 Z" id="path-1" style="fill: rgb(255, 234, 0); filter: url(#black-and-white-filter-4);"/>
   <path class="st0" d="M 389.293 119.152 L 396.667 119.152 L 396.667 122.413 L 385.624 122.413 L 385.624 107.218 L 389.293 107.218 L 389.293 119.152 Z" id="path-2" style="fill: rgb(255, 234, 0); filter: url(#black-and-white-filter-4);"/>
   <path class="st0" d="M 407.823 107.218 L 407.823 110.479 L 404.154 110.479 L 404.154 107.218 L 407.823 107.218 Z M 407.823 111.554 L 407.823 122.376 L 404.154 122.376 L 404.154 111.554 L 407.823 111.554 Z" id="path-3" style="fill: rgb(255, 234, 0); filter: url(#black-and-white-filter-4);"/>
@@ -89,4 +71,6 @@
       <path class="st2" d="m 130,95.3 c 0,0 -0.3,0.3 -0.2,0.8 l 1,0.4 c 0,0 -0.3,-0.8 0.5,-1.1 l -0.6,-0.2 c 0,-0.1 -0.4,-0.2 -0.7,0.1 z" id="path-21" style="fill: rgb(255, 255, 255);"/>
     </g>
   </g>
+  <rect x="123.963" y="256.036" width="338.436" height="7.921" style="stroke: rgb(0, 0, 0); fill: rgb(6, 2, 78);"/>
+  <rect x="125.647" y="189.27" width="338.436" height="7.921" style="stroke: rgb(0, 0, 0); fill: rgb(6, 2, 78);"/>
 </svg>
